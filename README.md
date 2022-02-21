@@ -1,4 +1,4 @@
-# Excel_Data_Analysis_Example
+# Excel_Data_Analysis
 I have used sample data in excel to perform the below operations:
 Quick statistics
 Exploratory Data Analysis (EDA) with CF
